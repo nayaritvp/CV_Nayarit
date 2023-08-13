@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+}
+.abme {
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    border: 1px;
+    padding: 8px;
+}
+.expe {
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    border: 1px;
+    padding: 8px;
+}
+.proy {
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    border: 1px;
+    padding: 8px;
+}
+.cont {
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    border: 1px;
+    padding: 8px;
+}
+.abme:hover {
+    background-color: rgb(71, 71, 71);
+}
+.expe:hover {
+    background-color: rgb(71, 71, 71);
+}
+.proy:hover {
+    background-color: rgb(71, 71, 71);
+}
+.cont:hover {
+    background-color: rgb(71, 71, 71);
+}
+#fondo1 {
+    background-image: url(../img/naturaleza.jpg);
+    color: white;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.expecont {
+    text-align: center;
+    background-image: url(../img/work.png);
+    color: darkslateblue;
+    text-decoration: none;
+    list-style-position: inside;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lista {
+    color: darkslateblue;
+    background-color: #FFFFFF;
+    font-size: large;
+    padding: 10px;
+    opacity: 0.5;
+}
+.cont1 {
+    display: flex;
+    justify-content: space-around;
+}
+#Mi-Portafolio .image-top {
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .footer {
+    text-align: center;
+    background-color: rgb(31, 30, 30);
+    color: white;
+  }
