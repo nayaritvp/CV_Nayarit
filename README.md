@@ -1,2 +1,3 @@
 # CV_Nayarit
-CV para el desafio de desafiolatam 
+CV para uno de los primeros desafios en desafiolatam 
+forma parte de los comienzos.
